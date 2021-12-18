@@ -1,0 +1,42 @@
+.parent-sider{
+    height: 100vh;
+    background-color: lightgray;
+}
+
+.sider-li:hover{
+    background-color: rgb(0, 110, 255);
+    color: #fff;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .parent-sider .sider-li:hover{
+    background-color:rgb(21, 115, 255);
+    color: #fff;
+    cursor: pointer;
+} */
